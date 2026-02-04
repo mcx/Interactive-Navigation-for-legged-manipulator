@@ -2,8 +2,19 @@
 
 # Interactive-Navigation-with-Learned-Arm-pushing-Controller</a>
 
-[![Project Page](https://img.shields.io/badge/Project%20Page-6DE1D2?style=for-the-badge&logo=safari&labelColor=555555)](https://zhihaibi.github.io/interactive-push.github.io/)
-[![arXiv](https://img.shields.io/badge/arXiv-F75A5A?style=for-the-badge&logo=arxiv&labelColor=555555)](https://arxiv.org/pdf/2503.01474)
+<!-- [![Project Page](https://img.shields.io/badge/Project%20Page-6DE1D2?style=for-the-badge&logo=safari&labelColor=555555)](https://zhihaibi.github.io/interactive-push.github.io/)
+[![arXiv](https://img.shields.io/badge/arXiv-F75A5A?style=for-the-badge&logo=arxiv&labelColor=555555)](https://arxiv.org/pdf/2503.01474) -->
+
+[![IsaacSim](https://img.shields.io/badge/IsaacSim-4.5.0-9e9e9e.svg?style=flat-square)](https://docs.omniverse.nvidia.com/isaacsim/latest/overview.html)
+[![Isaac Lab](https://img.shields.io/badge/IsaacLab-2.1.0-2e7d32.svg?style=flat-square)](https://isaac-sim.github.io/IsaacLab)
+[![ROS Noetic](https://img.shields.io/badge/ROS-Noetic-1976d2.svg?style=flat-square)](http://wiki.ros.org/noetic)
+[![Python](https://img.shields.io/badge/python-3.8-fbc02d.svg?style=flat-square)](https://docs.python.org/3/whatsnew/3.8.html)
+[![License](https://img.shields.io/badge/License-GPLv3-9e9e9e.svg?style=flat-square)](https://github.com/Zhihaibi/Interactive-Navigation-for-legged-manipulator/blob/main/LICENSE)
+
+
+[[Project Page]](https://zhihaibi.github.io/interactive-push.github.io/)
+[[Arxiv]](https://arxiv.org/pdf/2503.01474)
+
 
 <p align ="center">
 <img src="./Images/fig1.png" width=90%>
