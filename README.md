@@ -65,7 +65,21 @@ The low-level traing code is modified from [Visual WBC](https://wholebody-b1.git
 
 The environment related code is `legged_gym/legged_gym/envs/manip_loco/manip_loco.py`, and the related config for b2z1 hardware is in `b2z1_config.py`.
 
+Note that the low-level WBC and the high-level object pushing skill are trained separately.
+
 ```bash
+cd low_level_WBC
+cd third_party/isaacgym/python && pip install -e .
+
+cd ../..
+cd rsl_rl && pip install -e .
+
+cd ..
+cd skrl && pip install -e .
+
+cd .. 
+pip install -e . # intall the low_level_WBC 
+
 cd legged_gym/scripts
 
 python train.py --headless --exptid kp_350_kd_5 --proj_name b2z1-low --task b2z1 --sim_device cuda:0 --rl_device cuda:0 --observe_gait_commands

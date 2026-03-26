@@ -1,0 +1,1 @@
+/home/v1/Github_projects/Interactive-Navigation-for-legged-manipulator/low_level_WBC/legged_gym/envs/manip_loco/b2z1_config.py

@@ -17,8 +17,6 @@ isaacgym/_bindings/linux-x86_64/carb.config.json
 isaacgym/_bindings/linux-x86_64/gym_36.so
 isaacgym/_bindings/linux-x86_64/gym_37.so
 isaacgym/_bindings/linux-x86_64/gym_38.so
-isaacgym/_bindings/linux-x86_64/libGLEW.so
-isaacgym/_bindings/linux-x86_64/libGLEW.so.2.0
 isaacgym/_bindings/linux-x86_64/libGLEW.so.2.0.0
 isaacgym/_bindings/linux-x86_64/libNvFlexExtReleaseCUDA_x64.so
 isaacgym/_bindings/linux-x86_64/libNvFlexReleaseCUDA_x64.so
@@ -26,23 +24,14 @@ isaacgym/_bindings/linux-x86_64/libPhysXGpu_64.so
 isaacgym/_bindings/linux-x86_64/libar.so
 isaacgym/_bindings/linux-x86_64/libarch.so
 isaacgym/_bindings/linux-x86_64/libaudioSchema.so
-isaacgym/_bindings/linux-x86_64/libboost_atomic.so
 isaacgym/_bindings/linux-x86_64/libboost_atomic.so.1.68.0
-isaacgym/_bindings/linux-x86_64/libboost_date_time.so
 isaacgym/_bindings/linux-x86_64/libboost_date_time.so.1.68.0
-isaacgym/_bindings/linux-x86_64/libboost_filesystem.so
 isaacgym/_bindings/linux-x86_64/libboost_filesystem.so.1.68.0
-isaacgym/_bindings/linux-x86_64/libboost_program_options.so
 isaacgym/_bindings/linux-x86_64/libboost_program_options.so.1.68.0
-isaacgym/_bindings/linux-x86_64/libboost_python27.so
 isaacgym/_bindings/linux-x86_64/libboost_python27.so.1.68.0
-isaacgym/_bindings/linux-x86_64/libboost_python36.so
 isaacgym/_bindings/linux-x86_64/libboost_python36.so.1.68.0
-isaacgym/_bindings/linux-x86_64/libboost_regex.so
 isaacgym/_bindings/linux-x86_64/libboost_regex.so.1.68.0
-isaacgym/_bindings/linux-x86_64/libboost_system.so
 isaacgym/_bindings/linux-x86_64/libboost_system.so.1.68.0
-isaacgym/_bindings/linux-x86_64/libboost_thread.so
 isaacgym/_bindings/linux-x86_64/libboost_thread.so.1.68.0
 isaacgym/_bindings/linux-x86_64/libcameraUtil.so
 isaacgym/_bindings/linux-x86_64/libcarb.assets.plugin.so
@@ -58,8 +47,6 @@ isaacgym/_bindings/linux-x86_64/libcarb.settings.plugin.so
 isaacgym/_bindings/linux-x86_64/libcarb.so
 isaacgym/_bindings/linux-x86_64/libcarb.tasking.plugin.so
 isaacgym/_bindings/linux-x86_64/libcarb.windowing-glfw.plugin.so
-isaacgym/_bindings/linux-x86_64/libembree.so
-isaacgym/_bindings/linux-x86_64/libembree.so.2
 isaacgym/_bindings/linux-x86_64/libembree.so.2.17.4
 isaacgym/_bindings/linux-x86_64/libgarch.so
 isaacgym/_bindings/linux-x86_64/libgf.so
@@ -71,7 +58,6 @@ isaacgym/_bindings/linux-x86_64/libhf.so
 isaacgym/_bindings/linux-x86_64/libhio.so
 isaacgym/_bindings/linux-x86_64/libhoudiniSchema.so
 isaacgym/_bindings/linux-x86_64/libimgui.so
-isaacgym/_bindings/linux-x86_64/libjemalloc.so
 isaacgym/_bindings/linux-x86_64/libjemalloc.so.1
 isaacgym/_bindings/linux-x86_64/libjs.so
 isaacgym/_bindings/linux-x86_64/libkind.so
@@ -83,9 +69,7 @@ isaacgym/_bindings/linux-x86_64/libnvipc.so
 isaacgym/_bindings/linux-x86_64/libobjFileFormat.so
 isaacgym/_bindings/linux-x86_64/libomni_usd_plugin.so
 isaacgym/_bindings/linux-x86_64/libomniverse_connection.so
-isaacgym/_bindings/linux-x86_64/libosdCPU.so
 isaacgym/_bindings/linux-x86_64/libosdCPU.so.3.1.1
-isaacgym/_bindings/linux-x86_64/libosdGPU.so
 isaacgym/_bindings/linux-x86_64/libosdGPU.so.3.1.1
 isaacgym/_bindings/linux-x86_64/libpcp.so
 isaacgym/_bindings/linux-x86_64/libphysicsSchema.so
@@ -94,7 +78,6 @@ isaacgym/_bindings/linux-x86_64/libphysxSchema.so
 isaacgym/_bindings/linux-x86_64/libphysxSchemaTools.so
 isaacgym/_bindings/linux-x86_64/libplug.so
 isaacgym/_bindings/linux-x86_64/libpxOsd.so
-isaacgym/_bindings/linux-x86_64/libpython3.6m.so
 isaacgym/_bindings/linux-x86_64/libpython3.6m.so.1.0
 isaacgym/_bindings/linux-x86_64/libpython3.so
 isaacgym/_bindings/linux-x86_64/librlgpu.so

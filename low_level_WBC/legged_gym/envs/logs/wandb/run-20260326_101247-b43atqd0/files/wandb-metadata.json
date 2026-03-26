@@ -1,0 +1,54 @@
+{
+  "os":  "Linux-5.15.0-140-generic-x86_64-with-glibc2.17",
+  "python":  "CPython 3.8.20",
+  "startedAt":  "2026-03-26T02:12:47.379612Z",
+  "args":  [
+    "--headless",
+    "--exptid",
+    "kp_350_kd_5",
+    "--proj_name",
+    "b2z1-low",
+    "--task",
+    "b2z1",
+    "--sim_device",
+    "cuda:0",
+    "--rl_device",
+    "cuda:0",
+    "--observe_gait_commands"
+  ],
+  "program":  "train.py",
+  "codePath":  "low_level_WBC/legged_gym/scripts/train.py",
+  "codePathLocal":  "train.py",
+  "git":  {
+    "remote":  "git@github.com:Zhihaibi/Interactive-Navigation-for-legged-manipulator.git",
+    "commit":  "ef888b73664ec8d4e10d5e769dc3f951c8f707f9"
+  },
+  "email":  "zbi217@connect.hkust-gz.edu.cn",
+  "root":  "/home/v1/Github_projects/Interactive-Navigation-for-legged-manipulator/low_level_WBC/legged_gym/envs/logs",
+  "host":  "AROUS",
+  "executable":  "/home/v1/anaconda3/envs/b1z1/bin/python",
+  "cpu_count":  16,
+  "cpu_count_logical":  24,
+  "gpu":  "NVIDIA GeForce RTX 4080",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1967317549056",
+      "used":  "1822245519360"
+    }
+  },
+  "memory":  {
+    "total":  "67183988736"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4080",
+      "memoryTotal":  "17171480576",
+      "cudaCores":  9728,
+      "architecture":  "Ada",
+      "uuid":  "GPU-9d3357af-27e6-0319-c826-8004119dcd00"
+    }
+  ],
+  "cudaVersion":  "12.8",
+  "writerId":  "h5jsftxhi4swxnc724xmjf1yrjrdnce0"
+}
